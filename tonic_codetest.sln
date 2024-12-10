@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		.gitignore = .gitignore
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TodoAPI", "TodoAPI\TodoAPI.csproj", "{4FB0A454-1616-46F5-A17B-41CE1C804FE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{8760D560-89D1-4219-ACAA-0A24279B20FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8760D560-89D1-4219-ACAA-0A24279B20FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8760D560-89D1-4219-ACAA-0A24279B20FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FB0A454-1616-46F5-A17B-41CE1C804FE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB0A454-1616-46F5-A17B-41CE1C804FE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB0A454-1616-46F5-A17B-41CE1C804FE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB0A454-1616-46F5-A17B-41CE1C804FE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
